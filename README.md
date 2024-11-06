@@ -34,7 +34,8 @@ I have also gained significant experience as a **Product Owner** in **Agile/Scru
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![Wordpress](https://img.shields.io/badge/wordpress-%231572B6.svg?style=flat&logo=wordpress&logoColor=white) 
+![Wordpress](https://img.shields.io/badge/wordpress-%231572B6.svg?style=flat&logo=wordpress&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)
 
 **Devops Services:**  
 ![Azure-Devops](https://img.shields.io/badge/azure-devops-%231572B6.svg?style=flat&logo=azure-devops&logoColor=white)
