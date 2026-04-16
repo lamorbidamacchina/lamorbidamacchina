@@ -1,24 +1,6 @@
 # 👋 Introduction
 Hi, I'm a human being, sometimes **Full Stack Developer**, sometimes **Tech Product Owner**, based in Italy.
 
-
-## 👨🏻‍💻 Experience:
-I am familiar with servers, network and hosting environments, data modeling, business logic, MVC frameworks, API layers, user interfaces & user experience.
-I use **Php**, **Python**, **Javascript**, **jQuery**, **React**, **Css**, **Html5**, **SqLite**, **Git**, Bash in my everyday work.
-I manage servers running **Apache**, Nginx, **MySql**, MariaDB, using Plesk and CLI tools. 
-I am familiar with **Azure Devops** and **Vercel** services and pipelines.
-I have gained a significant experience developing and maintaining **Wordpress** based websites and developing custom Wordpress themes and plugins, as well as ecommerce websites based on Woocommerce.
-I can design complex **RESTful Api** services with **openAPI**, and develop them using **NodeJs** or Php frameworks.
-I have a basic knowledge of **Laravel** framework and other MVC frameworks like **Slim** and CakePhp.
-I have a basic knowledge of **NoSql**, and I have worked on projects based on MongoDB, Apache Cassandra and Google Firebase / Firestore.
-I have some web security experience, being able to configure a commercial WAF or setting up ModSecurity, and running test tools for common threats.
-I support SEO teams to reach their goals, tweaking web server configurations, building and optimizing standard and AMP compliant web pages.
-
-I **manage small development teams**, communicating daily with project managers, agencies, end clients, IT teams, and UX/UI units. 
-
-I have also gained significant experience as a **Product Owner** in **Agile/Scrum** working environments. I have overseen the delivery of small to medium-sized projects, collaborating closely with cross-functional teams to ensure alignment with client goals, product requirements, and development timelines. This experience has allowed me gain experience in refining product visions, managing backlogs, and driving iterative improvements through sprints.
-
-
 ## 💻 Tech Stack
 
 **Programming Languages:**  
