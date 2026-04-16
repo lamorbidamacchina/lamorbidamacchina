@@ -22,6 +22,7 @@ Hi, I'm a human being, sometimes **Full Stack Developer**, sometimes **Tech Prod
 **Devops Services:**  
 ![Azure-Devops](https://img.shields.io/badge/azure-devops-%231572B6.svg?style=flat&logo=azure-devops&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Fly.io](https://img.shields.io/badge/fly.io-%2324185b.svg?style=flat&logo=fly.io&logoColor=white)
 
 **Markup Languages:**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
